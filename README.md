@@ -5,7 +5,12 @@ This code provides a comprehensive computational workflow for processing and ana
 
 This code supports both reference-based and reference-free analyses, enabling cluster-level DNA methylation profiling in immune cells as well as complex tissues such as prostate cancer.
 
-<img src="https://github.com/okcodebio/scEM_seq/blob/main/scEM_seq_framework_upload.png" width="50%" height="auto" alt="scEM_seq Framework">
+<p align="center">
+  <img src="https://github.com/okcodebio/scEM_seq/blob/main/scEM_seq_framework_upload.png"
+       width="50%"
+       height="auto"
+       alt="scEM_seq Framework">
+</p>
 
 ## Key Features
 
