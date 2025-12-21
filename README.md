@@ -1,13 +1,8 @@
 # scEM_seq
 ## Description
 
-This code provides a comprehensive computational workflow for processing and analyzing scEM-seq data, from raw sequencing reads to downstream cell-type annotation and clustering.
-
-Paired-end FASTQ reads are demultiplexed by cell barcode, trimmed, aligned with Bismark, and processed to generate single-cell DNA methylation profiles and a methylation matrix.
-
-Downstream analyses perform VMR detection, matrix imputation, Seurat-based clustering, and cell-type annotation using reference methylomes or scMethID.
-
-This code supports both reference-based and reference-free analyses, enabling cluster-level DNA methylation profiling in immune cells as well as complex tissues such as prostate cancer.
+  This code provides a comprehensive computational workflow for processing and analyzing scEM-seq data, from raw sequencing reads to downstream cell-type annotation and clustering. Paired-end FASTQ reads are demultiplexed by cell barcode, trimmed, aligned with Bismark, and processed to generate single-cell DNA methylation profiles and a methylation matrix. Downstream analyses perform VMR detection, matrix imputation, Seurat-based clustering, and cell-type annotation using reference methylomes or scMethID.
+  This code supports both reference-based and reference-free analyses, enabling cluster-level DNA methylation profiling in immune cells as well as complex tissues such as prostate cancer.
 
 <img src="https://github.com/okcodebio/scEM_seq/blob/main/scEM_seq_framework_upload.png" width="50%" height="auto" alt="scEM_seq Framework">
 
