@@ -27,9 +27,10 @@ git clone https://github.com/okcodebio/scEM_seq.git
 
 ## Dependencies
 
+- Cutadapt 4.5
+- fastp 0.23.3
+- Bowtie2 2.5.1
+- Bismark 0.24.1
 - Python >= 3.8
 - NumPy >= 1.21.0
 - pandas >= 1.3.0
-- scikit-learn >= 0.24.0
-- matplotlib >= 3.4.0
-- seaborn >= 0.11.0
