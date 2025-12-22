@@ -27,10 +27,13 @@ git clone https://github.com/okcodebio/scEM_seq.git
 
 ## Dependencies
 
-- Cutadapt 4.5
-- fastp 0.23.3
-- Bowtie2 2.5.1
-- Bismark 0.24.1
+### Core Tools
+- Cutadapt (v4.5)
+- fastp (v0.23.3)
+- Bowtie2 (v2.5.1)
+- Bismark (v0.24.1)
+
+### Python Environment
 - Python >= 3.8
 - NumPy >= 1.21.0
 - pandas >= 1.3.0
